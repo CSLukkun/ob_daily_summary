@@ -1,6 +1,6 @@
 {
   "name": "ob-daily-summary",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Auto generate daily summary",
   "main": "main.js",
   "scripts": {
